@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./chunks/framework.34a9ea84.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/other/60s.md","filePath":"blogs/other/60s.md","lastUpdated":null}'),o={name:"blogs/other/60s.md"};function a(r,n,c,l,d,p){return t(),s("div")}const m=e(o,[["render",a]]);export{i as __pageData,m as default};
